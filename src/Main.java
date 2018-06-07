@@ -6,7 +6,6 @@ class Main {
 
     public static void main(String[] args) throws java.lang.Exception {
         // http://pl.spoj.com/problems/VSR/
-
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter writer = new PrintWriter(System.out);
 
